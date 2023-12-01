@@ -19,13 +19,13 @@
                '---'
 ```
 
-**Day 1:** 🦌 [Trebuchet](https://github.com/mzlodi/AdventOfCode2023/tree/master/Trebuchet)
-**Day 2:** ☃️ [TBA]()
-**Day 3:** 🤶 [TBA]()
-**Day 4:** ❄️ [TBA]()
-**Day 5:** 🍪 [TBA]()
-**Day 6:** 🥛 [TBA]()
-**Day 7:** 🎄 [TBA]()
-**Day 8:** 🎅 [TBA]()
-**Day 9:** 🎁 [TBA]()
-**Day 10:** 🌟 [TBA]()
+**Day 1:** 🦌 [Trebuchet](https://github.com/mzlodi/AdventOfCode2023/tree/master/Trebuchet)<br>
+**Day 2:** ☃️ [TBA]()<br>
+**Day 3:** 🤶 [TBA]()<br>
+**Day 4:** ❄️ [TBA]()<br>
+**Day 5:** 🍪 [TBA]()<br>
+**Day 6:** 🥛 [TBA]()<br>
+**Day 7:** 🎄 [TBA]()<br>
+**Day 8:** 🎅 [TBA]()<br>
+**Day 9:** 🎁 [TBA]()<br>
+**Day 10:** 🌟 [TBA]()<br>

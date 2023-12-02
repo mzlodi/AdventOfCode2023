@@ -20,7 +20,7 @@
 ```
 
 **Day 1:** 🦌 [Trebuchet](https://github.com/mzlodi/AdventOfCode2023/tree/master/Trebuchet)<br>
-**Day 2:** ☃️ [TBA](https://github.com/mzlodi/AdventOfCode2023/tree/master/CubeConundrum)<br>
+**Day 2:** ☃️ [Cube Conundrum](https://github.com/mzlodi/AdventOfCode2023/tree/master/CubeConundrum)<br>
 **Day 3:** 🤶 [TBA]()<br>
 **Day 4:** ❄️ [TBA]()<br>
 **Day 5:** 🍪 [TBA]()<br>
